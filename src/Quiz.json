@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "Question":"What is the capital of france?",
+            "Options":["Sydney","Paris","NewYork","Canberra"]
+        },
+        {
+            "Question":"What is the capital of India?",
+            "Options":["Delhi","Mumbai","Kolkata","Chennai"]
+        },
+        {
+            "Question":"What is the capital of America?",
+            "Options":["NewYork","LasVegas","LasAngels","California"]
+        },
+        {
+            "Question":"Who is the CEO of GOOGLE?",
+            "Options":["SundarPichai","MarkZuckerberg","ElonMusk","LukeWood"]
+        },
+        {
+            "Question":"What is our national bird?",
+            "Options":["Peacock","Parrot","Crow","Kuruvi"]
+        }
+    ]
+}
